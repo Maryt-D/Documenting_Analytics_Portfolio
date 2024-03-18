@@ -11,6 +11,10 @@
 
 This project aims to understand sales performance for a retail company to help them make strategic decisions on how to increase sales revenue by 15% next quarter. By executing the project successfully, I seek to help identify trends and patterns, make data-driven recommendations and gain a deeper understanding of the company's performance.
 
+
+![Screenshot 2024-03-17 202817](https://github.com/Maryt-D/Documenting_Analytics_Portfolio/assets/163777985/e90c119b-2c32-4a7c-bb3d-4a1ae601ee3c)
+
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made.
