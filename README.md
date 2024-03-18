@@ -8,6 +8,7 @@
 
   
 ### Project Overview
+---
 
 This project aims to understand sales performance for a retail company to help them make strategic decisions on how to increase sales revenue by 15% next quarter. By executing the project successfully, I seek to help identify trends and patterns, make data-driven recommendations and gain a deeper understanding of the company's performance.
 
